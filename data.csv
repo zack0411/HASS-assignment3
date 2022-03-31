@@ -1,4 +1,4 @@
-name,parent,floor_area_total,resale_price_total,per_sqm,r2_per_sqm,r3_per_sqm,r4_per_sqm,r5_per_sqm,executive_pre_sqm
+name,parent,floor_area_total,resale_price_total,per_sqm,r2_per_sqm,r3_per_sqm,r4_per_sqm,r5_per_sqm,executive_per_sqm
 Origin,,,,,,,,,
 ANG MO KIO,Origin,19494,106958913,5486.760696,5413.127273,5079.83381,5626.207391,6318.161671,5950.819672
 BEDOK,Origin,29300,153949029,5254.233072,5505.617978,5014.7851,5332.989814,5319.68624,5797.258561
